@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frucomedia Carrito Moderno\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, php-format
+msgid "100% secure, encrypted payment"
+msgstr "Pagament 100% segur i xifrat"
+
+msgid "Add"
+msgstr "Afegeix"
+
+msgid "Add it here"
+msgstr "Afegeix-lo aquí"
+
+msgid "Add one"
+msgstr "Afegeix una unitat"
+
+msgid "Apply"
+msgstr "Aplica"
+
+msgid "Buttons, progress bar and details."
+msgstr "Botons, barra de progrés i detalls."
+
+msgid "CSS selector of the links that open the side cart instead of going to the cart page. Separate several with commas."
+msgstr "Selector CSS dels enllaços que obren la cistella lateral en lloc d'anar a la pàgina de la cistella. Separa'n diversos amb comes."
+
+msgid "Close cart"
+msgstr "Tanca la cistella"
+
+msgid "Confirmation"
+msgstr "Confirmació"
+
+msgid "Deactivate “Pataliebres Modern Cart”: Frucomedia Carrito Moderno replaces it and keeps its settings."
+msgstr "Desactiva «Pataliebres Modern Cart»: Frucomedia Carrito Moderno el substitueix i en conserva els ajustos."
+
+msgid "Design"
+msgstr "Disseny"
+
+msgid "Discount"
+msgstr "Descompte"
+
+msgid "Don’t touch Elementor’s cart"
+msgstr "No toquis la cistella d'Elementor"
+
+msgid "Elementor “Menu Cart” widget"
+msgstr "Giny «Cistella del menú» d'Elementor"
+
+msgid "Enable the slide-out side cart"
+msgstr "Activa la cistella lateral lliscant"
+
+msgid "Frucomedia Carrito Moderno requires WooCommerce to be active."
+msgstr "Frucomedia Carrito Moderno necessita WooCommerce actiu."
+
+msgid "Have a gift card?"
+msgstr "Tens una targeta regal?"
+
+msgid "Header cart icon"
+msgstr "Icona de la cistella de la capçalera"
+
+msgid "Hide order summary"
+msgstr "Amaga el resum de la comanda"
+
+msgid "Hide the “… has been added to your cart” notice"
+msgstr "Amaga l'avís «… s'ha afegit a la cistella»"
+
+msgid "If there are no cross-sells, show related products"
+msgstr "Si no hi ha vendes creuades, mostra productes relacionats"
+
+msgid "If you use WP Rocket or another cache, clear it after saving."
+msgstr "Si fas servir WP Rocket o una altra memòria cau, buida-la després de desar."
+
+msgid "Leave it empty to use the minimum amount of the “Free shipping” method in your WooCommerce shipping zones."
+msgstr "Deixa-ho buit per fer servir l'import mínim del mètode «Enviament gratuït» de les zones d'enviament de WooCommerce."
+
+msgid "Main color"
+msgstr "Color principal"
+
+msgid "Maximum products:"
+msgstr "Màxim de productes:"
+
+msgid "Minimum amount (optional):"
+msgstr "Import mínim (opcional):"
+
+msgid "Modern Cart"
+msgstr "Cistella moderna"
+
+msgid "Open cart"
+msgstr "Obre la cistella"
+
+msgid "Open it automatically when a product is added"
+msgstr "Obre-la automàticament en afegir un producte"
+
+msgid "Open this side cart instead of Elementor’s (side cart and dropdown)"
+msgstr "Obre aquesta cistella lateral en lloc de la d'Elementor (lateral i desplegable)"
+
+msgid "Overrides the WooCommerce setting “Redirect to the cart page after successful addition”."
+msgstr "Té prioritat sobre l'opció de WooCommerce «Redirigeix a la pàgina de la cistella després d'afegir un producte»."
+
+msgid "Pairs well with"
+msgstr "Combina-ho amb"
+
+msgid "Progress towards free shipping"
+msgstr "Progrés fins a l'enviament gratuït"
+
+msgid "Recommendations"
+msgstr "Recomanacions"
+
+msgid "Redesign the cart page"
+msgstr "Redissenya la pàgina de la cistella"
+
+msgid "Redesign the checkout page"
+msgstr "Redissenya la pàgina de finalitzar la compra"
+
+msgid "Remove one"
+msgstr "Treu una unitat"
+
+msgid "Replace only Elementor’s “Side cart” type"
+msgstr "Substitueix només el tipus «Cistella lateral» d'Elementor"
+
+msgid "See options"
+msgstr "Veure opcions"
+
+msgid "Shipping & payment"
+msgstr "Enviament i pagament"
+
+msgid "Shipping is calculated at checkout."
+msgstr "L'enviament es calcula en finalitzar la compra."
+
+msgid "Show a floating cart button (bottom right)"
+msgstr "Mostra un botó flotant de la cistella (a baix a la dreta)"
+
+msgid "Show order summary"
+msgstr "Mostra el resum de la comanda"
+
+msgid "Show recommended products inside the side cart"
+msgstr "Mostra productes recomanats dins de la cistella lateral"
+
+msgid "Show the free shipping progress bar"
+msgstr "Mostra la barra de progrés fins a l'enviament gratuït"
+
+msgid "Show the “Cart → Details → Payment” steps"
+msgstr "Mostra els passos «Cistella → Dades → Pagament»"
+
+msgid "Side cart"
+msgstr "Cistella lateral"
+
+msgid "Slide-out side cart, free shipping bar, in-cart recommendations and a mobile-first redesign of the classic WooCommerce cart and checkout."
+msgstr "Cistella lateral, barra d'enviament gratuït, recomanacions a la cistella i redisseny de la cistella i el pagament clàssics de WooCommerce pensat per a mòbil."
+
+msgid "Stay on the product page after adding (instead of going to the cart page)"
+msgstr "Queda't a la pàgina del producte en afegir (en lloc d'anar a la pàgina de la cistella)"
+
+msgid "The cart couldn't be updated. Please try again."
+msgstr "No s'ha pogut actualitzar la cistella. Torna-ho a provar."
+
+msgid "This product can't be added to the cart right now."
+msgstr "Ara mateix no es pot afegir aquest producte a la cistella."
+
+msgid "Translations"
+msgstr "Traduccions"
+
+msgid "Use WooCommerce translations for untranslated theme texts on the cart and checkout (e.g. “Cart totals”, “Coupon code”, form placeholders)"
+msgstr "Fes servir les traduccions de WooCommerce per als textos del tema sense traduir a la cistella i al pagament (p. ex. «Cart totals», «Coupon code», textos dels camps)"
+
+msgid "Useful if your header cart icon doesn't open the panel."
+msgstr "Útil si la icona de la cistella de la capçalera no obre el panell."
+
+msgid "Uses each product's “Cross-sells” (Product data → Linked products)."
+msgstr "Fa servir les «Vendes creuades» de cada producte (Dades del producte → Productes enllaçats)."
+
+#, php-format
+msgid "You're %s away from free shipping"
+msgstr "Et falten %s per a l'enviament gratuït"
+
+msgid "You've got free shipping!"
+msgstr "Tens enviament gratuït!"
+
+msgid "Your cart"
+msgstr "La teva cistella"
+

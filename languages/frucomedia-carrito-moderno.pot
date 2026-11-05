@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frucomedia Carrito Moderno\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "100% secure, encrypted payment"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add it here"
+msgstr ""
+
+msgid "Add one"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Buttons, progress bar and details."
+msgstr ""
+
+msgid "CSS selector of the links that open the side cart instead of going to the cart page. Separate several with commas."
+msgstr ""
+
+msgid "Close cart"
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "Deactivate “Pataliebres Modern Cart”: Frucomedia Carrito Moderno replaces it and keeps its settings."
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Don’t touch Elementor’s cart"
+msgstr ""
+
+msgid "Elementor “Menu Cart” widget"
+msgstr ""
+
+msgid "Enable the slide-out side cart"
+msgstr ""
+
+msgid "Frucomedia Carrito Moderno requires WooCommerce to be active."
+msgstr ""
+
+msgid "Have a gift card?"
+msgstr ""
+
+msgid "Header cart icon"
+msgstr ""
+
+msgid "Hide order summary"
+msgstr ""
+
+msgid "Hide the “… has been added to your cart” notice"
+msgstr ""
+
+msgid "If there are no cross-sells, show related products"
+msgstr ""
+
+msgid "If you use WP Rocket or another cache, clear it after saving."
+msgstr ""
+
+msgid "Leave it empty to use the minimum amount of the “Free shipping” method in your WooCommerce shipping zones."
+msgstr ""
+
+msgid "Main color"
+msgstr ""
+
+msgid "Maximum products:"
+msgstr ""
+
+msgid "Minimum amount (optional):"
+msgstr ""
+
+msgid "Modern Cart"
+msgstr ""
+
+msgid "Open cart"
+msgstr ""
+
+msgid "Open it automatically when a product is added"
+msgstr ""
+
+msgid "Open this side cart instead of Elementor’s (side cart and dropdown)"
+msgstr ""
+
+msgid "Overrides the WooCommerce setting “Redirect to the cart page after successful addition”."
+msgstr ""
+
+msgid "Pairs well with"
+msgstr ""
+
+msgid "Progress towards free shipping"
+msgstr ""
+
+msgid "Recommendations"
+msgstr ""
+
+msgid "Redesign the cart page"
+msgstr ""
+
+msgid "Redesign the checkout page"
+msgstr ""
+
+msgid "Remove one"
+msgstr ""
+
+msgid "Replace only Elementor’s “Side cart” type"
+msgstr ""
+
+msgid "See options"
+msgstr ""
+
+msgid "Shipping & payment"
+msgstr ""
+
+msgid "Shipping is calculated at checkout."
+msgstr ""
+
+msgid "Show a floating cart button (bottom right)"
+msgstr ""
+
+msgid "Show order summary"
+msgstr ""
+
+msgid "Show recommended products inside the side cart"
+msgstr ""
+
+msgid "Show the free shipping progress bar"
+msgstr ""
+
+msgid "Show the “Cart → Details → Payment” steps"
+msgstr ""
+
+msgid "Side cart"
+msgstr ""
+
+msgid "Slide-out side cart, free shipping bar, in-cart recommendations and a mobile-first redesign of the classic WooCommerce cart and checkout."
+msgstr ""
+
+msgid "Stay on the product page after adding (instead of going to the cart page)"
+msgstr ""
+
+msgid "The cart couldn't be updated. Please try again."
+msgstr ""
+
+msgid "This product can't be added to the cart right now."
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid "Use WooCommerce translations for untranslated theme texts on the cart and checkout (e.g. “Cart totals”, “Coupon code”, form placeholders)"
+msgstr ""
+
+msgid "Useful if your header cart icon doesn't open the panel."
+msgstr ""
+
+msgid "Uses each product's “Cross-sells” (Product data → Linked products)."
+msgstr ""
+
+msgid "You're %s away from free shipping"
+msgstr ""
+
+msgid "You've got free shipping!"
+msgstr ""
+
+msgid "Your cart"
+msgstr ""
+

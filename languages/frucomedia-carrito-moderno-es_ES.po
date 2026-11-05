@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frucomedia Carrito Moderno\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, php-format
+msgid "100% secure, encrypted payment"
+msgstr "Pago 100% seguro y cifrado"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Add it here"
+msgstr "Añádelo aquí"
+
+msgid "Add one"
+msgstr "Añadir una unidad"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Buttons, progress bar and details."
+msgstr "Botones, barra de progreso y detalles."
+
+msgid "CSS selector of the links that open the side cart instead of going to the cart page. Separate several with commas."
+msgstr "Selector CSS de los enlaces que abrirán el carrito lateral en vez de ir a la página del carrito. Separa varios con comas."
+
+msgid "Close cart"
+msgstr "Cerrar carrito"
+
+msgid "Confirmation"
+msgstr "Confirmación"
+
+msgid "Deactivate “Pataliebres Modern Cart”: Frucomedia Carrito Moderno replaces it and keeps its settings."
+msgstr "Desactiva «Pataliebres Modern Cart»: Frucomedia Carrito Moderno lo sustituye y conserva sus ajustes."
+
+msgid "Design"
+msgstr "Diseño"
+
+msgid "Discount"
+msgstr "Descuento"
+
+msgid "Don’t touch Elementor’s cart"
+msgstr "No tocar el carrito de Elementor"
+
+msgid "Elementor “Menu Cart” widget"
+msgstr "Widget «Carrito del menú» de Elementor"
+
+msgid "Enable the slide-out side cart"
+msgstr "Activar el carrito lateral deslizante"
+
+msgid "Frucomedia Carrito Moderno requires WooCommerce to be active."
+msgstr "Frucomedia Carrito Moderno necesita WooCommerce activo."
+
+msgid "Have a gift card?"
+msgstr "¿Tienes una tarjeta regalo?"
+
+msgid "Header cart icon"
+msgstr "Icono del carrito de la cabecera"
+
+msgid "Hide order summary"
+msgstr "Ocultar resumen del pedido"
+
+msgid "Hide the “… has been added to your cart” notice"
+msgstr "Ocultar el aviso «… se ha añadido a tu carrito»"
+
+msgid "If there are no cross-sells, show related products"
+msgstr "Si no hay ventas cruzadas, mostrar productos relacionados"
+
+msgid "If you use WP Rocket or another cache, clear it after saving."
+msgstr "Si usas WP Rocket u otra caché, vacíala después de guardar."
+
+msgid "Leave it empty to use the minimum amount of the “Free shipping” method in your WooCommerce shipping zones."
+msgstr "Déjalo vacío para usar el mínimo del método «Envío gratuito» de tus zonas de envío de WooCommerce."
+
+msgid "Main color"
+msgstr "Color principal"
+
+msgid "Maximum products:"
+msgstr "Máximo de productos:"
+
+msgid "Minimum amount (optional):"
+msgstr "Importe mínimo (opcional):"
+
+msgid "Modern Cart"
+msgstr "Carrito moderno"
+
+msgid "Open cart"
+msgstr "Abrir carrito"
+
+msgid "Open it automatically when a product is added"
+msgstr "Abrirlo automáticamente al añadir un producto"
+
+msgid "Open this side cart instead of Elementor’s (side cart and dropdown)"
+msgstr "Abrir este carrito lateral en vez del de Elementor (lateral y desplegable)"
+
+msgid "Overrides the WooCommerce setting “Redirect to the cart page after successful addition”."
+msgstr "Tiene prioridad sobre el ajuste de WooCommerce «Redirigir a la página del carrito tras añadir un producto»."
+
+msgid "Pairs well with"
+msgstr "Combina con"
+
+msgid "Progress towards free shipping"
+msgstr "Progreso hasta el envío gratis"
+
+msgid "Recommendations"
+msgstr "Recomendaciones"
+
+msgid "Redesign the cart page"
+msgstr "Rediseñar la página del carrito"
+
+msgid "Redesign the checkout page"
+msgstr "Rediseñar la página de finalizar compra"
+
+msgid "Remove one"
+msgstr "Quitar una unidad"
+
+msgid "Replace only Elementor’s “Side cart” type"
+msgstr "Sustituir solo el tipo «Carrito lateral» de Elementor"
+
+msgid "See options"
+msgstr "Ver opciones"
+
+msgid "Shipping & payment"
+msgstr "Envío y pago"
+
+msgid "Shipping is calculated at checkout."
+msgstr "Gastos de envío calculados al finalizar la compra."
+
+msgid "Show a floating cart button (bottom right)"
+msgstr "Mostrar un botón flotante del carrito (abajo a la derecha)"
+
+msgid "Show order summary"
+msgstr "Ver resumen del pedido"
+
+msgid "Show recommended products inside the side cart"
+msgstr "Mostrar productos recomendados dentro del carrito lateral"
+
+msgid "Show the free shipping progress bar"
+msgstr "Mostrar la barra de progreso hasta el envío gratis"
+
+msgid "Show the “Cart → Details → Payment” steps"
+msgstr "Mostrar los pasos «Carrito → Datos → Pago»"
+
+msgid "Side cart"
+msgstr "Carrito lateral"
+
+msgid "Slide-out side cart, free shipping bar, in-cart recommendations and a mobile-first redesign of the classic WooCommerce cart and checkout."
+msgstr "Carrito lateral, barra de envío gratis, recomendaciones en el carrito y rediseño del carrito y el checkout clásicos de WooCommerce pensado para móvil."
+
+msgid "Stay on the product page after adding (instead of going to the cart page)"
+msgstr "Quedarse en la página del producto al añadir (en vez de ir a la página del carrito)"
+
+msgid "The cart couldn't be updated. Please try again."
+msgstr "No se ha podido actualizar el carrito. Inténtalo de nuevo."
+
+msgid "This product can't be added to the cart right now."
+msgstr "Este producto no se puede añadir ahora mismo."
+
+msgid "Translations"
+msgstr "Traducciones"
+
+msgid "Use WooCommerce translations for untranslated theme texts on the cart and checkout (e.g. “Cart totals”, “Coupon code”, form placeholders)"
+msgstr "Usar las traducciones de WooCommerce para los textos del tema sin traducir en el carrito y el checkout (p. ej. «Cart totals», «Coupon code», textos de los campos)"
+
+msgid "Useful if your header cart icon doesn't open the panel."
+msgstr "Útil si el icono del carrito de tu cabecera no abre el panel."
+
+msgid "Uses each product's “Cross-sells” (Product data → Linked products)."
+msgstr "Usa las «Ventas cruzadas» de cada producto (Datos del producto → Productos enlazados)."
+
+#, php-format
+msgid "You're %s away from free shipping"
+msgstr "Te faltan %s para el envío gratis"
+
+msgid "You've got free shipping!"
+msgstr "¡Tienes envío gratis!"
+
+msgid "Your cart"
+msgstr "Tu carrito"
+
