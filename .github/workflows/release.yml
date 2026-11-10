@@ -1,0 +1,52 @@
+# Al publicar una release «vX.Y.Z»: comprueba versión y sintaxis PHP, genera el ZIP y lo adjunta.
+# Las webs con el plugin instalado solo ven la actualización si la release lleva frucomedia-carrito-moderno.zip.
+# También se puede lanzar a mano (pestaña Actions → Release ZIP → Run workflow) para una release ya publicada.
+name: Release ZIP
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag de la release (p. ej. v1.4.0)'
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.event.release.tag_name || inputs.tag }}
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    env:
+      TAG: ${{ github.event.release.tag_name || inputs.tag }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.TAG }}
+
+      - name: Comprobar versión
+        run: |
+          set -euo pipefail
+          want="${TAG#[vV]}"
+          header=$(sed -nE 's/^[[:space:]]*\*[[:space:]]*Version:[[:space:]]*([0-9.]+).*/\1/p' frucomedia-carrito-moderno.php | head -1)
+          const=$(sed -nE "s/.*define\( *'FCM_VERSION', *'([0-9.]+)'.*/\1/p" frucomedia-carrito-moderno.php | head -1)
+          echo "Tag: $want · Cabecera: $header · FCM_VERSION: $const"
+          if [ "$want" != "$header" ] || [ "$want" != "$const" ]; then
+            echo "::error::El tag ($TAG) no coincide con la cabecera Version ($header) y FCM_VERSION ($const) de frucomedia-carrito-moderno.php"
+            exit 1
+          fi
+          grep -qE "^## +$want\b" CHANGELOG.md || echo "::warning::CHANGELOG.md no tiene sección «## $want»"
+
+      - name: Sintaxis PHP
+        run: find . -name '*.php' -not -path './.git/*' -print0 | xargs -0 -n1 php -l
+
+      - name: Generar ZIP
+        run: bash bin/build-zip.sh
+
+      - name: Adjuntar a la release
+        run: gh release upload "$TAG" build/frucomedia-carrito-moderno.zip --clobber --repo "$GITHUB_REPOSITORY"
